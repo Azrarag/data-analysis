@@ -9,3 +9,5 @@ quel produit se vend le plus?
 Data Uber data analysis :
 https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city/version/2
 
+Hotel booking data analysis :
+https://www.kaggle.com/marcuswingen/eda-of-bookings-and-ml-to-predict-cancelations
