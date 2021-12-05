@@ -1,5 +1,5 @@
 # data-analysis
-Nettoyage  de la base de donnée (data cleanning)
+Nettoyage  de la base de données (data cleanning)
 Analyse exploratoire (visualisation des données)
 
 
